@@ -1,1 +1,1 @@
-### Platzi 💚 Curso React Avanzado
+### 💚 Platzi - Curso avanzado de React 💙
